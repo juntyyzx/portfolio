@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Illustrated profile portrait">
+  <rect width="160" height="160" rx="16" fill="#e7eee9"/>
+  <circle cx="80" cy="61" r="27" fill="#b86d4b"/>
+  <path d="M33 142c3-31 20-46 47-46s44 15 47 46" fill="#285e58"/>
+  <path d="M53 56c0-21 12-35 29-35 21 0 34 14 32 36-11-12-20-12-32-9-12 3-18 7-29 8z" fill="#26343a"/>
+  <circle cx="70" cy="63" r="2" fill="#26343a"/><circle cx="91" cy="63" r="2" fill="#26343a"/>
+  <path d="M72 76q8 6 16 0" fill="none" stroke="#26343a" stroke-width="2" stroke-linecap="round"/>
+</svg>
